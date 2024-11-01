@@ -1,12 +1,36 @@
--  Hi, I’m @4iRH or @_m7pn
--  I’m interested in ios jailbreaking and little bit coding
--  I’m currently learning obj-c
-- 💞 im trying to build a repo for Roothide jailbreak repo provides best tweaks
--  How to reach me : instagram : @_m7pn - telegram : @i4li1 
--  Pronouns: he / him
-- ⚡ Fun fact: hate maths
+# 👨‍💻 4li0x1
 
-<!---
-4iRH/4iRH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a passionate iOS security researcher and tweak developer, focused on iOS exploitation and jailbreak development. My journey involves diving deep into the iOS ecosystem and creating innovative solutions.
+
+### 🔧 Current Focus
+- iOS Device Exploitation
+- Jailbreak Development 
+- Tweak Creation
+- Learning Objective-C
+
+### 💡 Skills & Interests
+- iOS Security Research
+- Mobile Device Security
+- Reverse Engineering
+- Tweak Development
+- Objective-C Programming
+
+### 🌱 Currently Learning
+- Advanced Objective-C concepts
+- iOS Internal Architecture
+- Exploit Development Techniques
+
+### 📱 Projects
+- Various iOS tweaks (in development)
+- Security research and exploitation POCs
+- Jailbreak-related tools and utilities
+
+### 📫 Connect With Me
+- Instagram: [@0xkernal](https://instagram.com/0xkernal)
+
+---
+
+<p align="center">
+⚡️ "Code is poetry, exploitation is art" ⚡️
+</p>
